@@ -1,0 +1,24 @@
+/* der Hintergrund ist Violet */
+body{
+    background-color:rgb(214, 187, 238);
+}
+h1{
+    color: green;
+    font-family: sans-serif;
+}
+/* px ist die Angabe der Größe in Pixel */
+h2{
+    background-color: aquamarine;
+    padding: 10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/* Die Farbe von Absätzen ist blau und in Times new Roman dickschrift */
+p{
+    color:blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:bold;
+}
+table{
+    color:brown;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
