@@ -1,3 +1,4 @@
+/* Der sainn der Style.css ist, die Farben, die Schriftgröße/-art,und das Aussehen aller Elemente in der HTML zu gestallten */
 /* der Hintergrund ist Violet */
 body{
     background-color:rgb(214, 187, 238);
@@ -21,4 +22,12 @@ p{
 table{
     color:brown;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    table, th, td, tr {
+        border: 1px solid;
+      }
+      border-collapse: collapse;
+      width: 100%;
+}
+th{
+    background-color: azure;
 }
